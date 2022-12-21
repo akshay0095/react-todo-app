@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div className="container">
-        <PageTitle>React project - Akshay</PageTitle>
+        <PageTitle>React Node JS - Akshay</PageTitle>
         <div className={styles.app__wrapper}>
           <AppHeader />
           <AppContent />
